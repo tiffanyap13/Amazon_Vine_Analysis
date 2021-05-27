@@ -10,7 +10,7 @@ In this project, I selected the dataset with reviews of shoes and used PySpark t
  ![Review Count] (Total_Reviews.png)
  - There were 14,488 5-star Vine reviews, of which 13 were paid (Vine) 5-star reviews and 14,475 were non-paid (non-Vine) 5-star reviews.
  - The percentage of Vine reviews that were 5-stars is 59%. The percentage of non-Vine reviews that were 5 stars is 53.6%.
- ![% Vine Reviews] (5_Star.png)
+ ![% Vine Reviews] (/5_Star.png)
  
 ## Summary
 In summary, it was determined that there may be some positivity bias since the percentage of paid (Vine) 5-star reviews is 59%, which is higher than the larger population of non-paid 5-star reviews, which was 53.6%.
